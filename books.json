@@ -1,0 +1,22 @@
+[
+    {
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "quantity": 5
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "quantity": 3
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "quantity": 2
+    },
+    {
+        "title": "urdu",
+        "author": "hashir",
+        "quantity": 5
+    }
+]
